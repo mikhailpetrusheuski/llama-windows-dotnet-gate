@@ -6,6 +6,8 @@ A one-file C# check that a local model behind Llama on Windows really calls a to
 [![.NET 10+](https://img.shields.io/badge/.NET_SDK-10%2B-512BD4)](https://dotnet.microsoft.com/)
 [![Stars](https://img.shields.io/github/stars/mikhailpetrusheuski/llama-windows-dotnet-gate?style=social)](https://github.com/mikhailpetrusheuski/llama-windows-dotnet-gate/stargazers)
 
+Read the write-up: [Llama on Windows Just Became a Local AI Backend for .NET](https://medium.com/@mikhail.petrusheuski/llama-on-windows-just-became-a-local-ai-backend-for-net-e435403a4831).
+
 ## Run
 
 ```bash
